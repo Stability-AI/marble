@@ -6,6 +6,6 @@ opencv-python==4.7.0.68
 gradio==5.29.0
 accelerate==0.26.1
 timm==0.6.12
-torch==2.3.0
+torch==2.7.0
 torchvision==0.18.0
 huggingface_hub==0.30.2
