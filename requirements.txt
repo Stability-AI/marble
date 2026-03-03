@@ -3,7 +3,7 @@ rembg[gpu]
 einops==0.7.0
 transformers==4.27.4
 opencv-python==4.7.0.68
-gradio==5.29.0
+gradio==6.7.0
 accelerate==0.26.1
 timm==0.6.12
 torch==2.3.0
