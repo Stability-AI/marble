@@ -1,4 +1,4 @@
-diffusers==0.30
+diffusers==0.38.0
 rembg[gpu]
 einops==0.7.0
 transformers==4.27.4
